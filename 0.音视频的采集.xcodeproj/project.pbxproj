@@ -435,7 +435,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 58GP5T8P44;
+				DEVELOPMENT_TEAM = K8ETH5Y5NB;
 				INFOPLIST_FILE = "0.音视频的采集/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -453,7 +453,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 58GP5T8P44;
+				DEVELOPMENT_TEAM = K8ETH5Y5NB;
 				INFOPLIST_FILE = "0.音视频的采集/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
